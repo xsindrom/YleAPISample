@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 910da11c8a75546aebf4ea7a627e5475, type: 3}
+    - {fileID: 2800000, guid: 9519b8e63760246b69096397e3153a5b, type: 3}
+    - {fileID: 2800000, guid: 744b884f5ab1b4aefb7838eeec4d046a, type: 3}
+    - {fileID: 2800000, guid: a4f28b6fb67fb4658addf98ee532a7ac, type: 3}
+    - {fileID: 2800000, guid: 11d75de4e00bf4ca096aa248388d6a76, type: 3}
+    - {fileID: 2800000, guid: a0c4441e403ea437ca79f6f9b5b15da8, type: 3}
+    - {fileID: 2800000, guid: 8bba60bd272ff4978982a12a88f56b11, type: 3}
+    - {fileID: 2800000, guid: 9b34dd72f41374c41897bbae58b3b626, type: 3}
+    totalSpriteSurfaceArea: 183184
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9b34dd72f41374c41897bbae58b3b626, type: 3}
+  - {fileID: 21300000, guid: 11d75de4e00bf4ca096aa248388d6a76, type: 3}
+  - {fileID: 21300000, guid: 9519b8e63760246b69096397e3153a5b, type: 3}
+  - {fileID: 21300000, guid: 910da11c8a75546aebf4ea7a627e5475, type: 3}
+  - {fileID: 21300000, guid: 8bba60bd272ff4978982a12a88f56b11, type: 3}
+  - {fileID: 21300000, guid: a0c4441e403ea437ca79f6f9b5b15da8, type: 3}
+  - {fileID: 21300000, guid: 744b884f5ab1b4aefb7838eeec4d046a, type: 3}
+  - {fileID: 21300000, guid: a4f28b6fb67fb4658addf98ee532a7ac, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - back
+  - UI_Frame_Dark_Transparent
+  - UI_Icon_ToggleNext
+  - UI_Icon_MusicOn
+  - UI_Panel_Window
+  - UI_Panel_Content
+  - Background
+  - UI_Button_Standard_Sky
+  m_Tag: UI
+  m_IsVariant: 0
